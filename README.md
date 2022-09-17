@@ -12,7 +12,7 @@ la base de datos tendrá una tabla llamada usuarios con la siguiente informació
 - edad
 - calificacion
 
-Con el botón refrecar te tienes que traer toda la información de la base de datos de esa tabla usuarios
+Con el botón refrescar te tienes que traer toda la información de la base de datos de esa tabla usuarios
 
 
 ### BASE DINAMICA:
