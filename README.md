@@ -5,7 +5,7 @@ Eso es para que te funcione tanto mysql con python y pyside2
 
 ### BASE TODO
 Aquí tienes que traer toda la información de una base de datos que tu crees en mysql con workbench
-la base de datos tendrá una tabla llamda usuarioos con la siguiente información:
+la base de datos tendrá una tabla llamada usuarios con la siguiente información:
 - codigo
 - nombre
 - apellido
